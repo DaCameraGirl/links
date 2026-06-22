@@ -82,7 +82,7 @@ $lnk.TargetPath = (Get-Command powershell).Source
 $lnk.Arguments = "-ExecutionPolicy Bypass -NoProfile -File `"$($PSScriptRoot)\open-hub.ps1`""
 $lnk.WorkingDirectory = $root
 $lnk.IconLocation = "$icoPath,0"
-$lnk.Description = "Open Angela's Projects hub — all public apps in one place"
+$lnk.Description = "Open Angela's Projects hub - all public apps in one place"
 $lnk.WindowStyle = 1
 $lnk.Save()
 Write-Host "Desktop shortcut created: $lnkPath" -ForegroundColor Green
