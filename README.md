@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://dacameragirl.github.io/links/">
+    <img src="https://img.shields.io/badge/▶_OPEN_THE_LIVE_HUB-ff5fa2?style=for-the-badge&labelColor=1a1c33" alt="Open the live hub"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="docs/assets/hero.svg" alt="Angela's Projects — public links hub" width="100%"/>
 </p>
 
@@ -9,9 +15,26 @@
   <img src="https://img.shields.io/badge/50+-public_projects-a9a7c9?style=for-the-badge" alt="50+ projects"/>
 </p>
 
+## Repo vs live app
+
+| What you want | URL |
+|---|---|
+| **Use the hub** (tap Open / Code for every project) | **[dacameragirl.github.io/links](https://dacameragirl.github.io/links/)** |
+| Read this showcase README on GitHub | `github.com/DaCameraGirl/links` |
+
+GitHub opens the README by default. The **live hub** is a separate page — bookmark the link above or add a desktop shortcut (see below).
+
 **One tap-friendly page for every public thing I've shipped.** Games, kid apps, AI eval tools, dev platforms, and client sites — each with **Open** (try it) and **Code** (repo) links. Private repos stay off the list on purpose.
 
-> **Live hub:** [dacameragirl.github.io/links](https://dacameragirl.github.io/links/) — verified HTTP 200 before publish.
+### Desktop shortcut (Windows)
+
+Double-click to open the live hub in your browser — no terminal needed after setup:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\install-desktop-icon.ps1
+```
+
+Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 
 ## Hub preview
 
