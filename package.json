@@ -1,0 +1,11 @@
+{
+  "name": "links",
+  "private": true,
+  "description": "Angela's mobile-friendly public project hub",
+  "scripts": {
+    "screenshots": "node scripts/capture-previews.mjs && node scripts/capture-games.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}
