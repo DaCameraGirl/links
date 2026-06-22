@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Angela's Projects — links hub">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#241a3d"/>
+      <stop offset="55%" stop-color="#0f1020"/>
+      <stop offset="100%" stop-color="#15172c"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff5fa2"/>
+      <stop offset="50%" stop-color="#f4f3ff"/>
+      <stop offset="100%" stop-color="#7c5cff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#ff5fa2" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ff5fa2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <text x="600" y="118" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="url(#title)">Angela&apos;s Projects</text>
+  <text x="600" y="158" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" fill="#a9a7c9">One mobile-friendly hub for every public build</text>
+  <text x="600" y="196" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" fill="#f4f3ff">Games · Kids apps · AI tools · Dev platforms · Client sites</text>
+  <rect x="360" y="220" width="480" height="3" rx="1.5" fill="#2a2c4a"/>
+  <rect x="420" y="220" width="360" height="3" rx="1.5" fill="#ff5fa2" opacity="0.85">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="262" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#7c5cff">dacameragirl.github.io/links</text>
+</svg>
