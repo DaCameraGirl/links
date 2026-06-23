@@ -188,6 +188,10 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 <td width="340" valign="top"><a href="https://dacameragirl.github.io/gatekeeper/"><img src="docs/previews/apps/gatekeeper.png" width="320" alt="GateKeeper preview"/></a></td>
 <td valign="top"><strong>GateKeeper</strong><br/>Autonomous AI DevOps release-gate agent.<br/><br/><a href="https://dacameragirl.github.io/gatekeeper/">Open</a> · <a href="https://github.com/DaCameraGirl/gatekeeper">Code</a></td>
 </tr>
+<tr>
+<td width="340" valign="top"><img src="docs/previews/fallback-tool.svg" width="320" alt="Grok's Desk"/></td>
+<td valign="top"><strong>Grok's Desk</strong><br/>Grok + Angela session log — what we shipped on RoseOps, Bettin2Win, Obsidian.<br/><br/><a href="https://dacameragirl.github.io/groks-work/">Open</a> · <a href="https://github.com/DaCameraGirl/groks-work">Code</a></td>
+</tr>
 </table>
 
 ## Developer & business platforms
