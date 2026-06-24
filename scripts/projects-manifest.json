@@ -3,6 +3,7 @@
   "hubUrl": "https://dacameragirl.github.io/links/",
   "projects": [
     { "shortcut": "Angela's Projects", "liveUrl": "https://dacameragirl.github.io/links/", "icon": "scripts/angela-projects.ico" },
+    { "shortcut": "Latent Observatory", "liveUrl": "https://dacameragirl.github.io/latent-observatory/", "icon": null },
     { "shortcut": "SpectrumPride", "liveUrl": "https://dacameragirl.github.io/Spectrum/", "icon": "C:\\Users\\enter\\GameIcons\\Spectrum.ico" },
     { "shortcut": "Sporelight", "liveUrl": "https://dacameragirl.github.io/Sporelight/", "icon": "C:\\Users\\enter\\GameIcons\\Sporelight.ico" },
     { "shortcut": "FroggerForge", "liveUrl": "https://dacameragirl.github.io/FroggerForge/", "icon": "C:\\Users\\enter\\GameIcons\\FroggerForge.ico" },
