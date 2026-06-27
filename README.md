@@ -35,7 +35,7 @@
   Built by <strong>Angela Hudson</strong> · <a href="https://github.com/DaCameraGirl">DaCameraGirl</a>
 </p>
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Repo%20vs%20live%20app&fontSize=22&fontColor=e6edf3" width="720" alt="Repo vs live app" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=Repo%20vs%20live%20app&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="Repo vs live app" /></p>
 
 
 | What you want | URL |
@@ -58,7 +58,7 @@ powershell -ExecutionPolicy Bypass -File scripts\install-desktop-icon.ps1
 Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Hub%20preview&fontSize=22&fontColor=e6edf3" width="720" alt="Hub preview" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=Hub%20preview&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="Hub preview" /></p>
 
 
 <p align="center">
@@ -68,7 +68,7 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </p>
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Featured%20picks&fontSize=22&fontColor=e6edf3" width="720" alt="Featured picks" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=Featured%20picks&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="Featured picks" /></p>
 
 
 <p align="center">
@@ -85,7 +85,7 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 ---
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Games%20%26%20Fun&fontSize=22&fontColor=e6edf3" width="720" alt="Games & Fun" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=Games%20%26%20Fun&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="Games & Fun" /></p>
 
 
 <table>
@@ -140,7 +140,7 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </table>
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Kids%20apps%20for%20Jaxon&fontSize=22&fontColor=e6edf3" width="720" alt="Kids apps for Jaxon" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=Kids%20apps%20for%20Jaxon&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="Kids apps for Jaxon" /></p>
 
 
 <table>
@@ -167,7 +167,7 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </table>
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=AI%2C%20evaluation%20%26%20work%20tools&fontSize=22&fontColor=e6edf3" width="720" alt="AI, evaluation & work tools" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=AI%2C%20evaluation%20%26%20work%20tools&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="AI, evaluation & work tools" /></p>
 
 
 <table>
@@ -226,7 +226,7 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </table>
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Developer%20%26%20business%20platforms&fontSize=22&fontColor=e6edf3" width="720" alt="Developer & business platforms" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=Developer%20%26%20business%20platforms&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="Developer & business platforms" /></p>
 
 
 <table>
@@ -313,7 +313,7 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </table>
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Client-style%20sites&fontSize=22&fontColor=e6edf3" width="720" alt="Client-style sites" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=Client-style%20sites&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="Client-style sites" /></p>
 
 
 <table>
@@ -334,7 +334,7 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 ---
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=What's%20in%20this%20repo&fontSize=22&fontColor=e6edf3" width="720" alt="What's in this repo" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=What's%20in%20this%20repo&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="What's in this repo" /></p>
 
 
 | File | Purpose |
@@ -353,7 +353,7 @@ npm run screenshots
 ```
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Maintainer%20notes&fontSize=22&fontColor=e6edf3" width="720" alt="Maintainer notes" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=Maintainer%20notes&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="Maintainer notes" /></p>
 
 
 - Only **public** repos with working demos belong on the hub.
