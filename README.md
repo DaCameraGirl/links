@@ -1,21 +1,42 @@
 <p align="center">
-  <a href="https://dacameragirl.github.io/links/">
-    <img src="https://img.shields.io/badge/▶_OPEN_THE_LIVE_HUB-ff5fa2?style=for-the-badge&labelColor=1a1c33" alt="Open the live hub"/>
-  </a>
+  <img src="docs/readme-banner.svg" alt="Angela's Projects — Mobile-friendly index of every public project with live Open and Code links." width="720" />
 </p>
 
 <p align="center">
-  <img src="docs/assets/hero.svg" alt="Angela's Projects — public links hub" width="100%"/>
+  <strong>Mobile-friendly index of every public project with live Open and Code links.</strong>
 </p>
 
 <p align="center">
-  <a href="https://dacameragirl.github.io/links/"><img src="https://img.shields.io/badge/🌐_Live_Hub-ff5fa2?style=for-the-badge" alt="Live hub"/></a>
-  <a href="https://github.com/DaCameraGirl"><img src="https://img.shields.io/badge/GitHub-DaCameraGirl-7c5cff?style=for-the-badge" alt="GitHub profile"/></a>
-  <img src="https://img.shields.io/badge/Mobile--first-1a1c33?style=for-the-badge" alt="Mobile-first"/>
-  <img src="https://img.shields.io/badge/50+-public_projects-a9a7c9?style=for-the-badge" alt="50+ projects"/>
+  <a href="https://dacameragirl.github.io/links/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-33d69f?style=for-the-badge&logo=github&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/DaCameraGirl/links"><img src="https://img.shields.io/badge/Code-GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
 </p>
 
-## Repo vs live app
+<p align="center">
+  <img src="https://img.shields.io/badge/mobile-first-ff5fa2?style=flat-square" alt="mobile-first" />
+  <img src="https://img.shields.io/badge/deploy-GitHub Pages-000000?style=flat-square&logo=github&logoColor=white" alt="deploy-GitHub Pages" />
+</p>
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-64%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/PowerShell-21%25-5391FE?style=flat-square&logo=github&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/JavaScript-14%25-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
+</p>
+
+### Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hub-static-ff5fa2?style=flat-square" alt="Hub-static" />
+  <img src="https://img.shields.io/badge/GitHub Pages-live-33d69f?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages-live" />
+</p>
+
+<p align="center">
+  Built by <strong>Angela Hudson</strong> · <a href="https://github.com/DaCameraGirl">DaCameraGirl</a>
+</p>
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Repo%20vs%20live%20app&fontSize=22&fontColor=e6edf3" width="720" alt="Repo vs live app" /></p>
+
 
 | What you want | URL |
 |---|---|
@@ -36,7 +57,9 @@ powershell -ExecutionPolicy Bypass -File scripts\install-desktop-icon.ps1
 
 Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 
-## Hub preview
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Hub%20preview&fontSize=22&fontColor=e6edf3" width="720" alt="Hub preview" /></p>
+
 
 <p align="center">
   <a href="https://dacameragirl.github.io/links/">
@@ -44,7 +67,9 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
   </a>
 </p>
 
-## Featured picks
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Featured%20picks&fontSize=22&fontColor=e6edf3" width="720" alt="Featured picks" /></p>
+
 
 <p align="center">
   <a href="https://dacameragirl.github.io/Bettin2Win/"><img src="docs/previews/apps/bettin2win.png" width="31%" alt="Bettin2Win"/></a>
@@ -59,7 +84,9 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 
 ---
 
-## Games & Fun
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Games%20%26%20Fun&fontSize=22&fontColor=e6edf3" width="720" alt="Games & Fun" /></p>
+
 
 <table>
 <tr>
@@ -112,7 +139,9 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </tr>
 </table>
 
-## Kids apps for Jaxon
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Kids%20apps%20for%20Jaxon&fontSize=22&fontColor=e6edf3" width="720" alt="Kids apps for Jaxon" /></p>
+
 
 <table>
 <tr>
@@ -137,7 +166,9 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </tr>
 </table>
 
-## AI, evaluation & work tools
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=AI%2C%20evaluation%20%26%20work%20tools&fontSize=22&fontColor=e6edf3" width="720" alt="AI, evaluation & work tools" /></p>
+
 
 <table>
 <tr>
@@ -194,7 +225,9 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </tr>
 </table>
 
-## Developer & business platforms
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Developer%20%26%20business%20platforms&fontSize=22&fontColor=e6edf3" width="720" alt="Developer & business platforms" /></p>
+
 
 <table>
 <tr>
@@ -279,7 +312,9 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 </tr>
 </table>
 
-## Client-style sites
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Client-style%20sites&fontSize=22&fontColor=e6edf3" width="720" alt="Client-style sites" /></p>
+
 
 <table>
 <tr>
@@ -298,7 +333,9 @@ Creates **Angela's Projects** on your Desktop with a pink/purple hub icon.
 
 ---
 
-## What's in this repo
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=What's%20in%20this%20repo&fontSize=22&fontColor=e6edf3" width="720" alt="What's in this repo" /></p>
+
 
 | File | Purpose |
 |---|---|
@@ -315,7 +352,9 @@ npx playwright install chromium
 npm run screenshots
 ```
 
-## Maintainer notes
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Maintainer%20notes&fontSize=22&fontColor=e6edf3" width="720" alt="Maintainer notes" /></p>
+
 
 - Only **public** repos with working demos belong on the hub.
 - Links were verified (HTTP 200) before the hub went live.
